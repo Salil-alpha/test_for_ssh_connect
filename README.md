@@ -47,3 +47,10 @@ now, lets do this again for a couple of times
 alright, i get you know
 and perhaps this 3rd edit from git VCS is gonna be error free, as per my thinking
 ##signing off from Git VCS
+
+
+
+fine i get it
+got fluency from Git VCS
+##pull this from Git VCS
+##over and out from Git Interface
