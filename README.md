@@ -13,3 +13,10 @@ already pulled the above lines from the git through R
 great!
 let's again meet you at git
 ##signing off from R
+
+
+so yes, from git
+now, let's see, how this "pull" works with the "Git VCS(Version Control System"
+that is the Git CLI(Command line Interface)
+##signing off from Git
+##tata
