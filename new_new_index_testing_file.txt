@@ -1,0 +1,6 @@
+##checking how "git status works[D[D[D[D[D[D" works and also
+to check what is the staging area and its concept
+
+i hope this works well
+doing all this from GitVCS[D[D[D VCS
+##signing off from here.
